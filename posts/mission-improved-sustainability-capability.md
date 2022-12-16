@@ -4,7 +4,7 @@ collection: posts
 permalink: /posts/mission-improved-sustainability-capability
 summary: 'We'd better get better at sustainability, and quick.'
 date: 2022-12-16
-link:   https://www.newyorker.com/magazine/2022/11/28/climate-change-from-a-to-z
+link:   'https://www.newyorker.com/magazine/2022/11/28/climate-change-from-a-to-z'
 ---
 
 I could barely get through [Elizabeth Kolbert's](https://www.newyorker.com/contributors/elizabeth-kolbert) [“Climate Change from A to Z”]( https://www.newyorker.com/magazine/2022/11/28/climate-change-from-a-to-z). It was a viscerally disturbing read. 
