@@ -17,6 +17,6 @@ What are the skill-sets? What are the tools?
 
 ![Capability Dimensions (deeper)](/assets/images/integrated-skills.png)
 
-How do we make the complex straightforward, and the daunting approachable? 
+When it comes to innovating toward sustainability, how do we make the complex straightforward, and the daunting approachable? 
 
 That's the mission of Decision Rubric.
