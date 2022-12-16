@@ -22,7 +22,8 @@ collections:
     permalink: /:collection/:path/
 
 defaults:
- - scope:
+  # posts
+  - scope:
       path: ""
       type: posts
     values:
