@@ -14,6 +14,6 @@ Posts are published on an irregular cadence.
 Posts
 </h2>
 {% for post in site.posts reversed %}
-  {% include post-single-working.html %}
+  {% include post-snippet.html %}
 {% endfor %}
 
