@@ -1,5 +1,5 @@
 ---
-title: "Goodbye, dear world?"
+title: "Unblocking action on sustainability"
 collection: posts
 permalink: /posts/mission-improved-sustainability-capability
 summary: "We'd better get better at sustainability, and quick."
