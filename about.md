@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-A project of [Eric A. Moore] (https://www.linkedin.com/in/ericaaronmoore/)
+Decision Rubric is a project of [Eric A. Moore](https://www.linkedin.com/in/ericaaronmoore/).
