@@ -2,7 +2,7 @@
 title: "Goodbye, dear world?"
 collection: posts
 permalink: /posts/mission-improved-sustainability-capability
-summary: 'We'd better get better at sustainability, and quick.'
+summary: 'We\'d better get better at sustainability, and quick.'
 date: 2022-12-16
 link:   'https://www.newyorker.com/magazine/2022/11/28/climate-change-from-a-to-z'
 ---
