@@ -1,15 +1,15 @@
 ---
 title: "Posts"
 permalink: /posts/
-author_profile: false
 ---
+
 [Posts](#posts) &nbsp; 
 
 Posts are published on an irregular cadence.
 
 {% include base_path %}
 
-<!-- ## <span style="color: #3b5998">Working Papers </span> -->
+<!-- ## <span style="color: #3b5998">Posts </span> -->
 <h2 id="posts">
 Posts
 </h2>
