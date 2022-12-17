@@ -17,6 +17,27 @@ include:
   - _pages
   - files
 
+ 
+encoding: "utf-8"
+markdown_ext: "md"
+
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comments: false
+
+
 
 # Plugins
 plugins:
