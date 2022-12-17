@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A longer lever for heavier lifts"
-collection: postsX
+collection: posts
 permalink: /posts/test1
 summary: "What would it take to broaden accesses to analytic decision making? The tech needs to simplify work processes and to help persuade."
 date: 2022-12-17
