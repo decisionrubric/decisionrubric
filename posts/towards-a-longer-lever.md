@@ -1,8 +1,10 @@
+---
 title: "A longer lever for heavier lifts"
 collection: posts
 permalink: /posts/towards-a-longer-lever
 summary: "What would it take to broaden accesses to analytic decision making? The tech needs to simplify work processes and to help persuade."
 date: 2022-12-17
+---
 
 
 How can we make better decisions? How can we make data-informed decisions without have to be  “data scientists”? How can many people can have the means to make smart decisions?
