@@ -7,7 +7,7 @@ date: 2022-12-17
 ---
 
 
-How can we make better decisions? How can we make data-informed decisions without have to be  “data scientists”? How can many people can have the means to make smart decisions?
+How can we make better decisions? How can we make data-informed decisions without having to become “data scientists”? How can many more people have the means to make robust decisions?
 
 I started on a  project to look for ways to apply analytics to decision making ... and I found a lot of decisions don’t actually need “analytics”. We always need a clear assessment of the situation at hand. Beyond that, what many important problems do benefit from is:
 - Decision structuring 
@@ -29,10 +29,10 @@ In order to support solving important  decision problems,  I've been working to 
 - Approachable statistical analytics that reduce ambiguity,
 - Simulations that tell stories.
 
-Application areas include
+Application areas include:
 - Managing innovation
 - Design for sustainability
 - Participatory policy design
 - Business and market simulation
 
-We can put the knowhow within reach. And, an accessible, go-to resource for complex decision problems can be have big impact. 
+We can put the knowhow within reach. And, an accessible, go-to resource for complex decision problems can have big impact. 
