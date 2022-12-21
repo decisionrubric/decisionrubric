@@ -14,7 +14,7 @@ To look at categories of climate impact, “Our World in Data” charts global g
 [figure](https://ourworldindata.org/uploads/2020/09/Emissions-by-sector-%E2%80%93-pie-charts.png).
 The sustainability problem of course is not just GHG emissions – it’s other forms of harmful emissions and contaminants, and resource depletion, and indeed the whole concept of [unquestioned growth]( https://www.washingtonpost.com/obituaries/2022/11/04/herman-daly-ecological-economist-dead/).
 
-Is there something simple? We all know the 3 R's - Reduce, Reuse, Recycle - which always made sense but now seem strikingly insufficient. My R's for today are: Reduce (consumption, waste products), Replace (non-renewable sources), Restore (systems that sequester atmospheric carbon), and Recover (disruption and disaster response).
+Is there something simple? We all know the 3 R's - Reduce, Reuse, Recycle - which always made sense but now seem strikingly insufficient. My R's for today are: **Reduce** (consumption, waste products), **Replace** (non-renewable sources), **Restore** (systems that sequester atmospheric carbon), and **Recover** (disruption and disaster response).
 
 From a product perspective, understanding how markets frame value always seems to be what is most salient.   For the framework to use here, I'll rely on how an influential tech investor has characterized the climate-tech sector. 
 
@@ -67,7 +67,7 @@ It would interesting to look at the climate impact of a given investment sector 
 
 Engineers like me look at potential solutions. Investors look at potential markets. YCombinator -- whose motto "make something people want" is to the point -- suggests that a climate-tech startup focus on B2B relative to B2C, both in terms of scale of potential impact and as a reflection of how B2B customers frame their needs.
 
-A signature challenge of "Energy Related" sector is that different people (organizations) want different and apparently inconsistent things. As an engineer, it is easier to conceive of technology breakthroughs than it is getting groups of self-interested actors -- with partial and selective views of a situation --  to agree on a solution of mutual good. A structured decision making process – like Decision Analysis – is a way through this quandary when participants are willing to engage.
+A signature challenge of "Energy Related" sector is that different people (organizations) want different and apparently inconsistent things. As an engineer, it can be easier to conceive of technology breakthroughs than it is getting groups of self-interested actors -- with partial and selective views of a situation --  to agree on a solution of mutual good. A structured decision making process – like Decision Analysis – is a way through this quandary when participants are willing to engage.
 
 Innovation is moving forward under uncertainty toward the creation of value.
 
