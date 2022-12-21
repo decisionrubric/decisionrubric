@@ -35,7 +35,7 @@ and [diagram](https://www.dropbox.com/s/8p5fnftinn29ck5/landscape.png?raw=1).
 I'll comment on both Rusenko's framework and YC's framing in terms of what I see as challenges for executing on innovation in these sustainability spaces. Ruskeno's description of his framework thumbnails each sector, founder archetypes, and typical risk profiles for investment. Successfully making something work is necessary but not sufficient for an investor success in climate tech. What's a view of the uncertainty in making something work? 
 
 ### “Energy Related”
-- This is quite the umbrella, with the unifying idea that component technologies may be there - we know how to do this, the problems are getting it done.  
+- This is quite the umbrella, with the unifying idea that component technologies may be already be there - we know how to do this - the problems are getting capabilities deployed.  
 - To my reading of Ruskeno's diagram and from the one from  Our World in Data, there are four "Energy" sub-categories: 
     - *Generation* - Replace - New ways to produce and store energy.  
     - *Transmission* - "the grid", or really the network of grids and operation under dynamic supply and demand. 
@@ -73,9 +73,9 @@ I'll comment on both Rusenko's framework and YC's framing in terms of what I see
 
 It would interesting to look at the climate impact of a given investment sector relative to implementation uncertainty.  Are the obstacles ones of technology discovery, lack of information, complexity coordination, absent incentives, missing imagination? 
 
-Engineers like me look at potential solutions. Investors look at potential markets. YCombinator -- whose motto "make something people want" is to the point -- suggests that a climate-tech startup focus on B2B relative to B2C, both in terms of scale of potential impact and as a reflection of how B2B customers frame their needs.
+Engineers like me look at potential solutions. Investors look at potential markets. YCombinator - whose motto "make something people want" is to the point - suggests that a climate-tech startup focus on B2B relative to B2C, both in terms of scale of potential impact and as a reflection of how B2B customers frame their needs.
 
-A signature challenge of "Energy Related" sector is that different people (organizations) want different and apparently inconsistent things. As an engineer, it can be easier to conceive of technology breakthroughs than it is getting groups of self-interested actors -- with partial and selective views of a situation --  to agree on a solution of mutual good. A structured decision making process – like Decision Analysis – is a way through this quandary when participants are willing to engage.
+A signature challenge of "Energy Related" sector is that different people (organizations) want different and apparently inconsistent things. As an engineer, it can be easier to conceive of technology breakthroughs than it is getting groups of self-interested actors - with partial and selective views of a situation -  to agree on a solution of mutual good. A structured decision making process – like Decision Analysis – is a way through this quandary when participants are willing to engage.
 
 Innovation is moving forward under uncertainty toward the creation of value.
 
