@@ -1,4 +1,12 @@
-Where are the uncertainties of sustainability innovation?
+---
+title: "Where are the uncertainties of sustainability innovation?"
+collection: posts
+permalink: /posts/uncertainties-of-sustainability-innovation
+summary: "Where's the uncertainty in making a sustainability solution work? Where is the uncertainty that an innovation process might address?"
+date: 2022-12-20
+---
+
+
 Where's the uncertainty in making a sustainability solution work? Where is the uncertainty that an innovation process might address?
 
 ## Sustainability Frameworks
@@ -7,7 +15,7 @@ What are examples of sustainability problems? I always look first for a framewor
 
 One way to approach this would be to survey the "low carbon" investments of major energy companies. Another would be to survey the characteristics of ESG programs of pledging companies. 
 
-Top down, I would expect to find a few taxonomies - from US government sources, the [EU]( https://finance.ec.europa.eu/sustainable-finance/tools-and-standards/eu-taxonomy-sustainable-activities_en), [the UK]( https://www.greenfinanceinstitute.co.uk/wp-content/uploads/2022/10/GTAG-Advice-on-the-development-of-a-UK-Green-Taxonomy.pdf), the UN, and from advocacy organizations. The EU taxonomy, at first glance, looks both rigorous and quite burley.
+Top down, I would expect to find a few taxonomies - from US government sources, the [EU]( https://finance.ec.europa.eu/sustainable-finance/tools-and-standards/eu-taxonomy-sustainable-activities_en), [the UK]( https://www.greenfinanceinstitute.co.uk/wp-content/uploads/2022/10/GTAG-Advice-on-the-development-of-a-UK-Green-Taxonomy.pdf), the UN, and from advocacy organizations. The EU taxonomy, at first glance, looks both rigorous and quite burly.
 
 To look at categories of climate impact, “Our World in Data” charts global greenhouse gas (GHG) emissions by sector, provides 
 [discussion](https://ourworldindata.org/emissions-by-sector) and a
@@ -29,10 +37,10 @@ I'll comment on both Rusenko's framework and YC's framing in terms of what I see
 ### “Energy Related”
 - This is quite the umbrella, with the unifying idea that component technologies may be there - we know how to do this, the problems are getting it done.  
 - To my reading of Ruskeno's diagram and from the one from  Our World in Data, there are four "Energy" sub-categories: 
-    - Generation - Replace - New ways to produce and store energy.  
-    - Transmission - "the grid", or really the network of grids and operation under dynamic supply and demand. 
-    - Static consumption - by buildings and industry. Conversion to electric. Reduce - process and usage efficiency. Replacing, as retrofitting to new power systems.  
-    - Mobile consumption - transportation. Vehicles, batteries, distribution of charging systems. Compensating for the energy density of portable fossil fuel with a less energy-dense replacement is a limiting challenge here. 
+    - *Generation* - Replace - New ways to produce and store energy.  
+    - *Transmission* - "the grid", or really the network of grids and operation under dynamic supply and demand. 
+    - *In-place Consumption* - by buildings and industry. Conversion to electric. Reduce - process and usage efficiency. Replacing, as retrofitting to new power systems.  
+    - *Mobile consumption* - transportation. Vehicles, batteries, distribution of charging systems. Compensating for the energy density of portable fossil fuel with a less energy-dense replacement is a limiting challenge here. 
 - Rather than technology, the challenges appear to be execution -  market based (cheaper always wins), regulatory, and political – this last in the group decision making sense. If it were software, I'd say the issues were system integration and system deployment. But it's more: projects with lots of moving parts controlled by different parties.  Coordination among organizations along a supply chain. In the case of  transmission lines it’s multiple administrative domains of governmental regulation and interest; multiple community and advocate interests of preservation and employment; interests of supply and demand utility companies. In some cases, it's politicized vs policy-centered processes.  I think this is all what Rusenko calls adoption risk.
 - The execution uncertainty of coordinated action is one of achieving alignment of interest (and distribution of returns and impacts).  The B2B perspective is “how do independent rational actors agree on mutual self-interest”. Perhaps a way to reduce uncertainty through is pilots – limited projects establishing trust and norms among actors to accommodate new operating models. Understanding the decision making of (and constraints on) utility companies seems to me to be central to making progress here.
 
