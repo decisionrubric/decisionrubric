@@ -2,6 +2,7 @@
 layout: post
 title: "Elephants on parade?"
 collection: posts
+tags: [tests, ipsum]
 permalink: /posts/test2
 excerpt: "One drunk elephant is scary. Imagine 10."
 date: 2022-12-17
