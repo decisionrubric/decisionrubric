@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Elephants on parade?"
+categories: blog
 tags: [tests, ipsum]
 permalink: /posts/test2
 excerpt: "One drunk elephant is scary. Imagine 10."
