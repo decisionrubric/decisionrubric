@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A longer lever for heavier lifts"
-collection: posts
 tags: [test, lorem]
 permalink: /posts/test1
 excerpt: "What would it take to broaden accesses to analytic decision making? The tech needs to simplify work processes and to help persuade."
