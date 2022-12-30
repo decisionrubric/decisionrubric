@@ -2,9 +2,14 @@ theme: minima
 title: Decision Rubric
 description: Scaling Innovation in Sustainability
 
-#turn on listing of posts on home page
+# turn on listing of posts on home page
 show_excerpts: true
+excerpt_length: 50
 
+header_pages:
+  - about.md
+  - resources.md
+  
 markdown: kramdown
 
 minima:
