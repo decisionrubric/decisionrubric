@@ -6,19 +6,26 @@ description: Scaling Innovation in Sustainability
 show_excerpts: true
 excerpt_length: 50
 
+# Whether or not to show an excerpt for every blog post in the feed page
+feed_show_excerpt: true
+
+# Whether or not to show a list of tags below each post preview in the feed page
+feed_show_tags: true
+
 header_pages:
   - about.md
   - resources.md
   
 markdown: kramdown
+encoding: "utf-8"
+markdown_ext: "md"
 
 minima:
   # generate social links in footer
   # social_links:
   # - { platform: linkedin,       user_url: "https://www.linkedin.com/in/ericaaronmoore/" }
 
-encoding: "utf-8"
-markdown_ext: "md"
+
 
 # Plugins
 plugins:
