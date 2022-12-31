@@ -1,6 +1,6 @@
 ---
 title: "Where are the uncertainties of sustainability innovation?"
-excerpt: "Where's the uncertainty in making a sustainability solution work? Where is the uncertainty that an innovation process might address?"
+excerpt: "Reduce, replace, restore, recover. Where might risk lie in climate-tech innovation?"
 date: 2022-12-20
 categories: blog
 tags: [frameworks, innovation]
