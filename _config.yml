@@ -14,7 +14,7 @@ feed_show_tags: true
 
 header_pages:
   - about.md
-  - resources.md
+  # - resources.md
   
 markdown: kramdown
 encoding: "utf-8"
