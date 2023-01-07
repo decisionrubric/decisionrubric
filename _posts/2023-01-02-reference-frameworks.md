@@ -21,12 +21,12 @@ The book is ["Good Strategy, Bad Strategy"](https://www.penguinrandomhouse.com/b
 His [McKinsey article](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-perils-of-bad-strategy)
 is a concise summary. A way to think about Rumelt’s strategy is as not just figuring what goes into what market, but as a framework for how organizations solve problems.
 
-The [Inner Development Goals](https://www.innerdevelopmentgoals.org) initiative is intended to accelerate work toward sustainability. It’s aspirationally a movement which supported by an extensive curriculum designed for small-community groups. 
-The [toolkit] (https://www.innerdevelopmentgoals.org/s/221215_IDG_Toolkit_v1.pdf) is new to me but the values resonate.
+The [Inner Development Goals](https://www.innerdevelopmentgoals.org) initiative is intended to accelerate work toward sustainability. The IDG's are aspirationally a movement which is supported by an extensive self-study curriculum designed for small community groups. 
+The [toolkit](https://www.innerdevelopmentgoals.org/s/221215_IDG_Toolkit_v1.pdf) is new to me but the values resonate.
 There's also a [report](https://www.innerdevelopmentgoals.org/s/220511_IDG_Report_Full.pdf)
 on its development. I'm learning more about it.
 
-I’ve omitted deeper references to Decision Analysis practice only out of laziness. The [Society of Decision Professionals]( https://www.decisionprofessionals.com/) collateral on Decision Quality is one place start.
+I’ve omitted deeper references to Decision Analysis practice only out of laziness. The [Society of Decision Professionals]( https://www.decisionprofessionals.com/) collateral on Decision Quality is just one source.
 
 Where does "my stuff" fit? 
 It needs to be consistent with Blank, which captures how "business" thinks;
