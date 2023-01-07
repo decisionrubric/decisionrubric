@@ -1,17 +1,16 @@
 ---
 title: "Frameworks for problem solving and problem solvers"
-excerpt: "Frameworks I am drawing from: Blank, Rumelt, decision science, decision analysis, and the IDG."
+excerpt: "Frameworks I am drawing from include Blank, Rumelt, decision science, decision analysis, and IDG."
 date: 2023-01-02
 categories: blog
 tags: [frameworks, innovation]
 permalink: /posts/reference-frameworks
 ---
-Frameworks for problem solving and problem solvers
 
 As I explore how to make progress on scaling innovation in sustainability (SIS), and in the context of shaping a program of study, I am looking at different problem solving frameworks as points of reference.
 
 The [Alliance for Decision Education](https://alliancefordecisioneducation.org/) has a K-12 focus, 
-a stellar [advisory council](https://alliancefordecisioneducation.org/learn/about-the-alliance/council/) and a cogent strategy. Their ["What is Decision Education"](https://alliancefordecisioneducation.org/what-is-decision-education/) is where I would start for an orientation to their Four Learning Domains. 
+a stellar [advisory council](https://alliancefordecisioneducation.org/learn/about-the-alliance/council/) and a cogent strategy. Their ["What is Decision Education"](https://alliancefordecisioneducation.org/what-is-decision-education/) is where I would start for an orientation to their Four Learning Domains.
 Thinking Probabilistically, Valuing and Applying Rationality, Structuring Decisions, and Recognizing and Resisting Cognitive Biases embody both behavioral and practice-oriented perspectives.
 
 Steve Blank's [Lean](https://steveblank.com/) is the prevailing market-centered model on innovation and startups. It’s also a model for how universities are organizing tech transfer investments. There are other authors in this space, and different elaborations, but Blank appears to me to be the fount.  
