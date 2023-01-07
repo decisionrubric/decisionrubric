@@ -1,5 +1,5 @@
 ---
-title: "Core skills for policy design"
+title: "Core skills for designing solutions from complex policy problems"
 excerpt: "Model thinking, managing, and decision making are core skills for complex problem solvers."
 date: 2023-01-03
 categories: blog
